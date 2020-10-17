@@ -18,7 +18,7 @@ This is about a social page to list and provide information about orphanages aro
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Special Thanks
-I just want to thank you [Rocketseat](https://rocketseat.com.br) for this awesome opportunity to learn NodeJS and React. This week was really amazing and I've learned a lot!
+I just want to thank you [Rocketseat](https://rocketseat.com.br) for this awesome opportunity to learn more about those technologies. This week was really amazing and I've learned a lot!
 
 ## Some App Images
 

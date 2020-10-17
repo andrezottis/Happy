@@ -22,7 +22,7 @@ I just want to thank you [Rocketseat](https://rocketseat.com.br) for this awesom
 
 ## Some App Images
 
-<img src="images/home.PNG" width="700">
-<img src="images/listPlaces.PNG" width="700">
-<img src="images/details1.PNG" width="700">
-<img src="images/details2.PNG" width="700">
+<img src="images/home.png" width="700">
+<img src="images/listPlaces.png" width="700">
+<img src="images/details1.png" width="700">
+<img src="images/details2.png" width="700">
